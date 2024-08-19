@@ -1,0 +1,7 @@
+android/
+assets/
+coverage/
+ios/
+node_modules/
+.expo/
+.git/

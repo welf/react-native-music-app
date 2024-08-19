@@ -1,0 +1,22 @@
+# Node modules
+**/node_modules/**
+
+# Build files
+**/.expo/**
+**/.next/**
+**/__generated__/**
+**/build/**
+
+# Git submodules
+/react-nattive-lab/react-native/**
+/docs/react-native-website/**
+
+# Other
+**/ios/**
+**/android/**
+**/assets/**
+**/bin/**
+**/fastlane/**
+**/kotlin/providers/**
+**/vendored/**
+/docs/public/static/**
